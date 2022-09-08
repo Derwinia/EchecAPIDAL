@@ -1,0 +1,28 @@
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.deps.json
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.runtimeconfig.json
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.dll
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.pdb
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.csproj.AssemblyReference.cache
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.AssemblyInfoInputs.cache
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.AssemblyInfo.cs
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.csproj.CoreCompileInputs.cache
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.dll
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\refint\ProjetEchecDAL.dll
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.pdb
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.genruntimeconfig.cache
+F:\formation\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ref\ProjetEchecDAL.dll
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.deps.json
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.runtimeconfig.json
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.dll
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\bin\Debug\net6.0\ProjetEchecDAL.pdb
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.AssemblyInfo.cs
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.dll
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\refint\ProjetEchecDAL.dll
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.pdb
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ProjetEchecDAL.genruntimeconfig.cache
+C:\Users\Student\Documents\Cours Pratique\ASP\ProjetEchec\ProjetEchec\ProjetEchecDAL\obj\Debug\net6.0\ref\ProjetEchecDAL.dll
